@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+html.index{
+   background-image:url(../img/backgroundindex.png)}
+
+html.art{
+    background-image:url(../img/backgroundart.png)
+}
+html.wordoftheday{
+    background-image: url(../img/backgroundwodd.png);
+}
+
+
+
+
+
+#nav{
+    font-size: 2em;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color:darkred;
+    padding: 8rem;
+    font-family:Georgia, 'Times New Roman';
+    color:aliceblue;
+ }
+    
+   
+
+h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:darkred;
+    font-size: 4em;
+    margin-top: 6%;
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3em;
+    color: sienna;
+    display: flex;
+    justify-content: center;
+}
+
+
+video{
+   margin:45%;
+   margin-top:auto;
+    height: 50em;
+    width: 30rem;
+}
+
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2em ;
+    margin-top: 12%;
+    margin-bottom: 12%;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+p{
+    font-size: 2em;
+    font-family: cursive;
+    color: darkred; 
+    text-align: center;
+   
+}
+
+
+section ul li {
+    display: flex;
+    flex-direction: column;
+}
+section ul {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 3em;
+    margin-bottom: 20px;
+    
+}
+
+a{ padding: 10px;
+    text-decoration: none;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+    background-color:darkolivegreen;
+    color:aliceblue;
+    margin-bottom: 25px;
+}
+
+a:hover, a:active{
+    background-color: sienna;
+    
+}
+
+
+
+/* Word of the day*/
+
+section img{
+   margin: 2em;
+}
+
+
+
+.part{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    align-items:flex-start;
+    align-self: stretch;
+    margin-left: 50%;
+    width: 40%;
+    
+}
+
+.art ul li{
+display: flex;
+align-items: end;
+margin-left: 20%;
+
+}

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" class="wordoftheday">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>wordoftheday</title>
+    <link rel="stylesheet" href="CSS/style.css">
+    <header>
+        <nav>
+    
+</nav>
+    </header>
+</head>
+<body>
+    <main class="wordoftheday">
+
+<section>
+    <p>Word of the day is a daily content concept inspiring people to reflect on or dwell onto a specific word or concept. This concept came about my daily morning meditations. Standing still with a word or phrase that has been instilled in me by just being in full rest and presence while connecting with myself. </p>
+    <p>Reflecting on these words everyday has helped me tremendously in changing my mood, reflecting on my behaviour towards myself and others and motivated me to grow my self confidence into my greatest potential.</p>
+    <p>Posting the words daily on my social media was a way for me to express into the world that I was taking that word in. I was giving it a stage to be manifested into my day. I combined the words with images. And the more I posted, the more I got inspired to use all of my self made pictures. I always enjoyed making pictures of nature, trees, flowers, landscapes, etc. With this daily posting, I felt I could finally put these beautiful images to good use - share more of the worlds beautiful nature with others, through my eyes.</p>
+    <p>Word of the day also motivated me to make better pictures and consciously work on more content. The concept also unintentionally pushed me into more and better content development. </p>
+   
+</section>
+
+    <section>
+    <h2>Word of the day Janauri</h2>
+    <ul>
+   
+   
+    <li><img src="img/Word of the day janu.JPG" alt="wordofthedayjanurarypicture1"></li>
+    <li><img src="img/word of the day janu 2.JPG" alt="Wordofthedayjanuary2"></li>
+    <li><img src="img/word of the day janu3.JPG" alt="wordofthedayjanuary3"></li> 
+    <li><a href="#">See More</a></li>
+    </ul>
+
+<h2>Word of the day Februari</h2>
+
+<ul>
+    <li><img src="img/word of the dau febr.JPG" alt="wordofthedayFebruarypicture1"></li>
+    <li><img src="img/word of the day febr2.JPG" alt="wordofthedayFebruarypicture2"></li>
+    <li><img src="/img/word of the day februari 3.JPG" alt="wordofthedayfebruarypicture3"></li>
+    <a href="3">See More</a>
+</ul>
+
+</main>
+</body>
+</html>
